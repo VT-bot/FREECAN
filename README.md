@@ -88,34 +88,4 @@ RunService.RenderStepped:Connect(function()
 		end
 		camera.CFrame = CFrame.new(camPos) * rotCF
 	end
-end)ENGAGE
-
-1. Listen and read about the writer of the most famous fictional detective, Sherlock Holmes
-
-20
-
-Arthur Conan Doyle was born on May 22, 1859 in Edinburgh, Scotland into a prosperous Irish family
-
-At school, Arthur developed a strong interest in the books written by Sir Walter Scott and Edgar Allan Poe. He attended Edinburgh University. He studied to be a doctor, earning his degree in 1881. He then settled in Portsmouth on the English south coast With very few patients, he divided his time between medicine and writing
-
-Sherlock Holmes made his first appearance in A study in scarlet, published in Beeton's Christmas Annual in 1887. Its success encouraged Conan Doyle to write more stories involving Holmes. He visited police museums to gain inspiration for his stories. He was really interested in turning real life crimes into a really good story. But, in 1893, Conan Doyle killed off Holmes, hoping to concentrate on more serious writing. A public protest later made him resurrect Holmes
-
-Conan Doyle also wrote a number of other novels, including The lost world and various non-fictional works. These included a pamphlet justifying Britain's involvement in the Boes War and histories of the First World War, in which his son, brother and two of his nephews were killed. After his son's death, he became very interested in spiritualism
-
-Doyle ran for parliament twice, 1900 and 1906. Although he received a respectable number of votes both times, he was not elected
-
-Conan Doyle died of a heart attack on July 7, 1930. He collapsed in his gardere clutching his heart with one hand and holding a flower in the other. His last words were te his wife. He whispered to her "You are wonderful
-
-Sell Anthur Conan Doyle (1859-1930) BBC Available at www.ibc.co.uk/hdon Rotork figures/conan or arthur doyle chand. Accessed Nov 201
-
-2. What/who do these words refer to?
-
-a) his
-
-bj his
-
-c) Its-
-
-d) These
-
-e) her-
+end)
